@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# SQLite and other DBs
+*.db
+*.sqlite3
+data/
+src/database/app.db
+src/instance/orbit.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+
+# Test/coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Env files
+.env
+.env.*
+
+# Node (caso use frontend junto)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

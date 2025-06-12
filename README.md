@@ -132,7 +132,7 @@ Para usar PostgreSQL no Render:
 - Configure alertas para monitoramento de saúde
 - Use o endpoint `/api/health` para verificar status
 
-## Segurança
+## Segurançaa
 
 - Mantenha SECRET_KEY seguro e único para cada ambiente
 - Restrinja CORS_ORIGINS em produção

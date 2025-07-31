@@ -1,5 +1,7 @@
 # Orbit API - Guia de Deploy
 
+Projeto que surgiu no evento O-HACKA-TA-ON 2025, iniciativa entre a parceria entre a Universidade de Fortaleza - instituição mantida pela Fundação Edson Queiroz - e o grupo M. Dias Branco, um dos mantenedores do Unifor Hub. O objetivo foi impulsionar o ecossistema de inovação e capacitar novas gerações de talentos.
+
 Este guia fornece instruções detalhadas para deploy da API Orbit em ambientes locais e de produção.
 
 ## Requisitos
